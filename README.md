@@ -1,1 +1,1 @@
-# imagelogger
+# img-logger
